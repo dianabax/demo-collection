@@ -26,4 +26,4 @@ This demo collection features items from the [Library of Congress](https://www.l
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+<!-- {% include cb/about_the_about.md %} -->
